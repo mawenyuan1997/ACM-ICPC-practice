@@ -1,3 +1,2 @@
 # ACM-ICPC-practice
-solution&amp;ideas
-source files of some acm problems
+solutions,ideas and source files of some acm problems
